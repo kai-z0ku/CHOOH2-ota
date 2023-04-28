@@ -1,13 +1,13 @@
 {
     "kernel": {
-      "name": "CHOOH2 Kernel Bitra",
-      "version": "-testing",
-      "link": "https://drive.google.com/file/d/1xWX59OoxdNL_WBaxwNI2lMnYQMY9PSZ9/view?usp=share_link",
+      "name": "CHOOH2-Kernel",
+      "version": "bitra-testing",
+      "link": "https://drive.google.com/file/d/1xWX59OoxdNL_WBaxwNI2lMnYQMY9PSZ9/view?usp\u003dshare_link",
       "changelog_url": "https://raw.githubusercontent.com/kai-z0ku/CHOOH2-ota/main/changelog-bitra.txt",
       "date": "2023-04-28",
-      "sha1": ""
+      "sha1": "cca3f3d1a0c2f588bab9bae22731a6f00750c7fe"
     },
     "support": {
-      "link": "https://t.me/CHOOH2_bitra"
+      "link": ""
     }
-}
+  }
