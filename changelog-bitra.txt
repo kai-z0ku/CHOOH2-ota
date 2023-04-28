@@ -1,0 +1,7 @@
+
+CHOOH2 KERNEL for Realme GT Neo2 (bitra)
+
+Changelog V1-stable:
+
+- Initial released based on AOSPA farquaad kernel
+- Built with clang-17 (clang-r487747)
